@@ -5,4 +5,3 @@
 - delete vehicles
 - create reservations
 - delete reservations
-- webhook triggers
