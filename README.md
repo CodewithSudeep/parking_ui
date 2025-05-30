@@ -1,7 +1,3 @@
-```sh
-cd parking_ui && npm run dev
-```
-
 ## Features
 
 - sign up / sign in customers
